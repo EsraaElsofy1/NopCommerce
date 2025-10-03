@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Esraa",
+    "lastName": "Elsofy",
+    "email": "esraa.elsofy@example.com",
+    "company": "e&",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "address1": "15 Main St",
+    "address2": "cairo",
+    "zipPostalCode": "90001",
+    "phoneNumber": "1234567890",
+    "fax": "1234"
+  }
+]
