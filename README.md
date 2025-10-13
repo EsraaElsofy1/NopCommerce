@@ -20,8 +20,6 @@ Implemented five different data sources for flexibility and scalability:
 1. Excel File (`Products.xlsx`)
 2. CSV File (`Products.csv`)
 3. JSON File (`Products.json`)
-4. Properties File (`products.properties`)
-5. TestNG DataProvider (`@DataProvider(name="products")`)
 
 ---
 
